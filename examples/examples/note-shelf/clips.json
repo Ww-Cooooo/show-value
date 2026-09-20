@@ -1,0 +1,14 @@
+[
+  {
+    "title": "把示例放在说明旁边",
+    "text": "先展示读者会拿到什么。\n再说明完成它需要哪些输入。",
+    "url": "https://example.com/writing-a",
+    "tags": ["写作"]
+  },
+  {
+    "title": "输出之后还要做什么",
+    "text": "演示导出结果后，接着展示用户怎样继续修改。",
+    "url": "https://example.com/demo-b",
+    "tags": ["演示"]
+  }
+]

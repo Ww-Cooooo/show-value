@@ -1,0 +1,4 @@
+interface:
+  display_name: "Show Value · 讲清产品价值"
+  short_description: "把开发对话与当前项目资料整理成产品介绍、亮点依据和演示思路"
+  default_prompt: "使用 $show-value，结合本对话可访问的开发历史与当前项目资料，提炼产品的真实优势，整理完整产品介绍、亮点依据和适合展示的细节。"
